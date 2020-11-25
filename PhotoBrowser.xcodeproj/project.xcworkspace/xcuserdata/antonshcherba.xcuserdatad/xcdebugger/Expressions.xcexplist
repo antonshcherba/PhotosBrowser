@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "PhotosListViewController.pageViewController(_:didFinishAnimating:previousViewControllers:transitionCompleted:):PhotosListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pageViewController.viewControllers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
